@@ -58,6 +58,7 @@ Production-grade semantic job matching platform. **CV ↔ job matching** via Sen
 
 ### 🧠 Intelligent E-Health Rehabilitation System *(PhD project)*
 Ontology-driven AI for personalized rehabilitation of children with cerebral palsy. Combines hybrid deep learning (1D-CNN + Transformer for GMFCS prediction), hierarchical reinforcement learning for adaptive recommendations, and semantic reasoning over the OntoML-CP ontology.
+
 ---
 
 ## 📚 Selected Publications
@@ -66,7 +67,6 @@ Ontology-driven AI for personalized rehabilitation of children with cerebral pal
 - 📄 **Data-Driven ML Framework for Predicting Disabilities** — *KES 2025*
 - 📄 **Ontology-Based Framework for Personalized Rehabilitation** — *CSEDU 2025*
 - 📄 **Smart Rehabilitation System** — *ICSLE 2024*
-- 📄 **Intelligent Semantic-Based Framework for Rehabilitation** — *AC/ICWI 2022*
 
 ---
 
